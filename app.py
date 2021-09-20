@@ -131,7 +131,7 @@ def main():
 		st.success("Built with Streamlit")
 		st.info("RAGHAV CHADHA")
 		st.text("101853034")
-		st.text("raghavchadha9196@gmail.com)
+		st.text("raghavchadha9196@gmail.com")
 
 
 
